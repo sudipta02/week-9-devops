@@ -40,4 +40,4 @@ ssh -t -i "cert-file.cer" ubuntu@ec2-url  "sudo bash ~/deploy.sh"
 
 Github Actions setup for continuous integration:
 1. Create new repo
-2. git remote add origin2 <github_https_ssh_link> 
+2. git remote add origin2 <github_https_ssh_link>  
